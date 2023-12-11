@@ -1,3 +1,3 @@
 package get_name
 
-var Name = "GhostManVC V1"
+var Name = "GhostManVC V2"
